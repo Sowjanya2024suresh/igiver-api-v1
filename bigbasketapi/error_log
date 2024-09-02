@@ -1,0 +1,163 @@
+[21-Jun-2021 08:00:39 UTC] PHP Warning:  Illegal string offset 'client_id' in /home2/igiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 36
+[21-Jun-2021 08:00:39 UTC] PHP Warning:  Illegal string offset 'client_secret' in /home2/igiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 37
+[10-Aug-2021 16:40:03 UTC] PHP Warning:  Illegal string offset 'client_id' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 36
+[10-Aug-2021 16:40:03 UTC] PHP Warning:  Illegal string offset 'client_secret' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 37
+[10-Aug-2021 16:40:04 UTC] PHP Warning:  Illegal string offset 'refferer_name' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 117
+[10-Aug-2021 16:40:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function create_user_stepone(), 1 passed in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 134 and exactly 2 expected in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php:139
+Stack trace:
+#0 /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php(134): create_user_stepone(Array)
+#1 /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_bb_user.php(45): get_imjo_create_new_user('1', Object(mysqli), Array)
+#2 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 139
+[10-Aug-2021 16:40:28 UTC] PHP Warning:  Illegal string offset 'client_id' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 36
+[10-Aug-2021 16:40:28 UTC] PHP Warning:  Illegal string offset 'client_secret' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 37
+[10-Aug-2021 16:40:29 UTC] PHP Warning:  Illegal string offset 'refferer_name' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 117
+[10-Aug-2021 16:40:29 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function create_user_stepone(), 1 passed in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 134 and exactly 2 expected in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php:139
+Stack trace:
+#0 /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php(134): create_user_stepone(Array)
+#1 /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_bb_user.php(45): get_imjo_create_new_user('1', Object(mysqli), Array)
+#2 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 139
+[10-Aug-2021 16:47:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function create_user_stepone(), 1 passed in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 134 and exactly 2 expected in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php:139
+Stack trace:
+#0 /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php(134): create_user_stepone(Array)
+#1 /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_bb_user.php(46): get_imjo_create_new_user(Array, Object(mysqli), Array)
+#2 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 139
+[10-Aug-2021 16:47:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function create_user_stepone(), 1 passed in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 134 and exactly 2 expected in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php:139
+Stack trace:
+#0 /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php(134): create_user_stepone(Array)
+#1 /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_bb_user.php(46): get_imjo_create_new_user(Array, Object(mysqli), Array)
+#2 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 139
+[10-Aug-2021 16:49:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function create_user_stepone(), 1 passed in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 134 and exactly 2 expected in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php:139
+Stack trace:
+#0 /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php(134): create_user_stepone(Array)
+#1 /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_bb_user.php(46): get_imjo_create_new_user(Array, Object(mysqli), Array)
+#2 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 139
+[10-Aug-2021 16:50:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function create_user_stepone(), 1 passed in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 134 and exactly 2 expected in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php:139
+Stack trace:
+#0 /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php(134): create_user_stepone(Array)
+#1 /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_bb_user.php(46): get_imjo_create_new_user(Array, Object(mysqli), Array)
+#2 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 139
+[10-Aug-2021 18:16:41 UTC] PHP Warning:  Illegal string offset 'http_code' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 156
+[10-Aug-2021 18:17:45 UTC] PHP Warning:  Illegal string offset 'http_code' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 156
+[10-Aug-2021 18:19:36 UTC] PHP Warning:  Illegal string offset 'http_code' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 156
+[10-Aug-2021 18:20:08 UTC] PHP Warning:  Illegal string offset 'http_code' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 156
+[10-Aug-2021 18:20:31 UTC] PHP Warning:  Illegal string offset 'http_code' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 156
+[11-Aug-2021 18:28:30 UTC] PHP Warning:  http_build_query() expects parameter 1 to be array, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 291
+[11-Aug-2021 18:42:19 UTC] PHP Warning:  Illegal string offset 'error' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/instamarketplaceutilities.php on line 168
+[18-Aug-2021 16:04:44 UTC] PHP Warning:  Illegal string offset 'cus_name' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 27
+[18-Aug-2021 16:04:44 UTC] PHP Warning:  Illegal string offset 'cus_email' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 28
+[18-Aug-2021 16:04:44 UTC] PHP Warning:  Illegal string offset 'cus_phone' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 29
+[18-Aug-2021 16:07:36 UTC] PHP Warning:  Illegal string offset 'cus_name' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 27
+[18-Aug-2021 16:07:36 UTC] PHP Warning:  Illegal string offset 'cus_email' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 28
+[18-Aug-2021 16:07:36 UTC] PHP Warning:  Illegal string offset 'cus_phone' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 29
+[18-Aug-2021 16:08:25 UTC] PHP Warning:  Illegal string offset 'cus_name' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 28
+[18-Aug-2021 16:08:25 UTC] PHP Warning:  Illegal string offset 'cus_email' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 29
+[18-Aug-2021 16:08:25 UTC] PHP Warning:  Illegal string offset 'cus_phone' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 30
+[18-Aug-2021 17:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[18-Aug-2021 18:12:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 39
+[18-Aug-2021 18:13:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 39
+[18-Aug-2021 18:14:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 39
+[18-Aug-2021 18:14:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 39
+[18-Aug-2021 18:15:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 39
+[18-Aug-2021 18:15:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 40
+[18-Aug-2021 18:18:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[18-Aug-2021 18:37:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[18-Aug-2021 18:39:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[19-Aug-2021 18:35:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[19-Aug-2021 18:46:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[19-Aug-2021 18:49:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[19-Aug-2021 18:55:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[19-Aug-2021 19:22:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[19-Aug-2021 19:38:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[19-Aug-2021 20:05:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[20-Aug-2021 05:32:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[20-Aug-2021 13:27:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[30-Aug-2021 20:42:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[01-Sep-2021 14:12:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 54
+[01-Sep-2021 14:12:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 54
+[01-Sep-2021 14:13:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[01-Sep-2021 14:14:40 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 54
+[01-Sep-2021 14:14:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 54
+[01-Sep-2021 14:39:05 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 54
+[01-Sep-2021 14:39:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 54
+[01-Sep-2021 14:40:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 54
+[01-Sep-2021 14:40:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 54
+[01-Sep-2021 14:41:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 55
+[01-Sep-2021 14:41:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 55
+[01-Sep-2021 14:42:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 55
+[01-Sep-2021 14:42:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 55
+[01-Sep-2021 14:42:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 55
+[01-Sep-2021 14:42:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 55
+[01-Sep-2021 14:44:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 56
+[01-Sep-2021 14:44:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 56
+[01-Sep-2021 14:45:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 56
+[01-Sep-2021 14:45:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 56
+[01-Sep-2021 14:45:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 56
+[01-Sep-2021 14:45:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 56
+[01-Sep-2021 14:46:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 56
+[01-Sep-2021 14:46:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 56
+[01-Sep-2021 14:47:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 56
+[01-Sep-2021 14:47:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 56
+[01-Sep-2021 14:48:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 56
+[01-Sep-2021 14:48:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/create_pay_request.php on line 56
+[01-Sep-2021 14:52:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[01-Sep-2021 14:57:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[01-Sep-2021 15:01:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[01-Sep-2021 15:08:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[01-Sep-2021 16:10:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/cpigiver/public_html/ngoapp/bigbasketapi/send_order_email_all.php on line 18
+[01-Sep-2021 16:10:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/cpigiver/public_html/ngoapp/bigbasketapi/send_order_email_all.php on line 18
+[01-Sep-2021 16:10:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/cpigiver/public_html/ngoapp/bigbasketapi/send_order_email_all.php on line 18
+[01-Sep-2021 18:34:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/cpigiver/public_html/ngoapp/bigbasketapi/send_order_email_all.php on line 100
+[01-Sep-2021 20:34:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[01-Sep-2021 20:34:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_sms() in /home4/cpigiver/public_html/ngoapp/bigbasketapi/return.php:36
+Stack trace:
+#0 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/return.php on line 36
+[01-Sep-2021 20:37:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_sms() in /home4/cpigiver/public_html/ngoapp/bigbasketapi/settlementfulfill.php:47
+Stack trace:
+#0 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/settlementfulfill.php on line 47
+[01-Sep-2021 20:49:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[01-Sep-2021 20:49:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_sms() in /home4/cpigiver/public_html/ngoapp/bigbasketapi/return.php:36
+Stack trace:
+#0 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/return.php on line 36
+[01-Sep-2021 20:50:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_sms() in /home4/cpigiver/public_html/ngoapp/bigbasketapi/settlementfulfill.php:47
+Stack trace:
+#0 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/settlementfulfill.php on line 47
+[01-Sep-2021 20:50:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_sms() in /home4/cpigiver/public_html/ngoapp/bigbasketapi/settlementfulfill.php:47
+Stack trace:
+#0 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/settlementfulfill.php on line 47
+[01-Sep-2021 20:50:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_sms() in /home4/cpigiver/public_html/ngoapp/bigbasketapi/settlementfulfill.php:47
+Stack trace:
+#0 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/settlementfulfill.php on line 47
+[01-Sep-2021 20:51:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_sms() in /home4/cpigiver/public_html/ngoapp/bigbasketapi/settlementfulfill.php:47
+Stack trace:
+#0 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/settlementfulfill.php on line 47
+[01-Sep-2021 20:52:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
+[01-Sep-2021 20:52:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_sms() in /home4/cpigiver/public_html/ngoapp/bigbasketapi/return.php:36
+Stack trace:
+#0 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/return.php on line 36
+[01-Sep-2021 20:53:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_sms() in /home4/cpigiver/public_html/ngoapp/bigbasketapi/return.php:36
+Stack trace:
+#0 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/return.php on line 36
+[01-Sep-2021 20:53:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_sms() in /home4/cpigiver/public_html/ngoapp/bigbasketapi/return.php:36
+Stack trace:
+#0 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/return.php on line 36
+[01-Sep-2021 20:56:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_sms() in /home4/cpigiver/public_html/ngoapp/bigbasketapi/return.php:36
+Stack trace:
+#0 {main}
+  thrown in /home4/cpigiver/public_html/ngoapp/bigbasketapi/return.php on line 36
+[12-Oct-2021 09:49:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cpigiver/public_html/ngoapp/bigbasketapi/bigbasketwebhook.php on line 41
